@@ -49,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://discord.com/users/728270516686815363" target="_blank">
@@ -63,10 +62,9 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/filipecampos9/filipecampos9/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipecampos9/filipecampos9/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipecampos9/filipecampos9/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/filipecampos9/filipecampos9/output/github-snake.svg" />
+</picture>

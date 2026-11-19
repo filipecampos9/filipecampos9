@@ -1,0 +1,71 @@
+{
+  "_comment": "Everything the cards say lives here. Edit, then run: python scripts/render_readme_cards.py",
+  "login": "filipecampos9",
+  "name": "Filipe Campos",
+  "kicker": "HI, I'M",
+  "tagline": "Software developer building mobile apps with React Native & Expo.",
+  "subline": "MSc in Software Engineering at ISEC · Portugal",
+  "hero_note": "Coimbra, PT",
+  "website": "https://github.com/filipecampos9?tab=repositories",
+  "portrait": null,
+  "theme": {
+    "_comment": "Swap the brand colour for your own. Dark values are used when the viewer's OS is in dark mode.",
+    "light": {
+      "card": "#f3f3f1",
+      "line": "#dcdcd8",
+      "ink": "#121212",
+      "muted": "#6e6e6a",
+      "faint": "#cacac4",
+      "empty": "#e2e2de"
+    },
+    "dark": {
+      "card": "#151515",
+      "line": "#2b2b2b",
+      "ink": "#f1f1ee",
+      "muted": "#9a9a95",
+      "faint": "#3a3a38",
+      "empty": "#262626"
+    },
+    "brand": "#3b55f5",
+    "brand_dark": "#7088ff",
+    "thousands_sep": ","
+  },
+  "tiles": [
+    {
+      "kicker": "BUILD",
+      "headline": "Mobile",
+      "unit": "apps",
+      "caption": "React Native & Expo at Apollotec",
+      "href": "https://github.com/filipecampos9?tab=repositories"
+    },
+    {
+      "kicker": "LEARN",
+      "headline": "MSc",
+      "unit": "ongoing",
+      "caption": "Software Engineering at ISEC",
+      "href": "https://www.isec.pt"
+    },
+    {
+      "kicker": "SAY HI",
+      "headline": "@",
+      "unit": "on X",
+      "caption": "@filipeecamposs, or on Discord",
+      "href": "https://x.com/filipeecamposs"
+    }
+  ],
+  "activity": {
+    "label": "THE LAST 12 MONTHS ON GITHUB",
+    "unit": "contributions"
+  },
+  "repos": [
+    "filipecampos9/SpendEaseApp",
+    "filipecampos9/ExpensesTracker",
+    "filipecampos9/WebGlDragonSkyward"
+  ],
+  "heatmap": {
+    "title": "Every day,",
+    "title_accent": "in blue",
+    "label": "REFRESHED DAILY"
+  },
+  "_repos_comment": "Each repo can also be {\"repo\": \"owner/name\", \"description\": \"text\"} to override an empty GitHub description."
+}

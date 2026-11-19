@@ -1,0 +1,4 @@
+.preview/
+__pycache__/
+*.png
+!assets/*.png
